@@ -25,3 +25,10 @@ sudo npm install -g nodemon
 ```
 nodemon server.js 4800
 ```
+
+## Useful
+
+```
+#Check is nodemon is still in memory
+ps aux | grep nodemon
+```
